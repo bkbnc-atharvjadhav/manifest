@@ -110,7 +110,7 @@ Repeat.
 
 | Project | Description |
 |---------|-------------|
-| Campus Connect | Smart campus navigation and event ecosystem |
+| Campus Connect | Smart campus event ecosystem |
 | LeadCircle | Student collaboration and engagement platform |
 | Digital Initiatives | Building solutions for educational institutions |
 | Open Source | Experiments, tools and contributions |

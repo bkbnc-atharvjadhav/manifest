@@ -1,145 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:1e293b&text=ATHARV%20JADHAV&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Student%20Developer%20•%20Project%20Lead%20•%20Builder&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=ATHARV%20JADHAV&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20•%20Project%20Lead%20•%20Builder&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+technology+for+education.;Creating+digital+experiences.;Turning+ideas+into+products.;Open+Source+Enthusiast.;Always+building+something+new." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Booting+Developer+Environment...;Loading+Campus+Connect...;Connecting+Education+and+Technology...;Compiling+Ideas+into+Reality...;System+Status:+ONLINE" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bkbnc-atharvjadhav&label=Visitors&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=bkbnc-atharvjadhav&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# Manifest
-
-> The source of my projects, experiments and digital initiatives.
+# `SYSTEM STATUS // ONLINE`
 
 ```yaml
-name: Atharv Jadhav
-location: India
-role: Student Developer
-current_focus:
+NAME: Atharv Jadhav
+ROLE: Student Developer
+STATUS: Building
+LOCATION: India
+MISSION: Education Technology
+UPTIME: 24/7
+FOCUS:
   - Campus Connect
-  - Educational Technology
   - Open Source
   - Community Building
-
-currently_learning:
-  - React Native
-  - Supabase
-  - System Design
-  - Scalable Architectures
-
-philosophy:
-  - Build
-  - Learn
-  - Share
-  - Repeat
+  - Educational Infrastructure
 ```
 
 ---
 
-## Current Mission
+## TERMINAL
 
-```text
-▰ Building Campus Connect
-▰ Creating solutions for education
-▰ Exploring open-source ecosystems
-▰ Learning by shipping products
-▰ Contributing to communities
+```console
+> whoami
+
+Atharv Jadhav
+
+> current_status
+
+Building technology for education and communities.
+
+> active_projects
+
+✓ Campus Connect
+✓ LeadCircle
+✓ Digital Initiatives
+
+> currently_learning
+
+✓ React Native
+✓ Supabase
+✓ System Design
+✓ Scalable Architectures
+
+> philosophy
+
+Build.
+Learn.
+Share.
+Repeat.
 ```
 
 ---
 
-## Tech Stack
+## TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,supabase,firebase,html,css,tailwind,git,github,vscode,vercel,cloudflare&perline=8"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,supabase,firebase,html,css,tailwind,git,github,vscode,vercel,cloudflare,linux&perline=9"/>
 
 </div>
 
 ---
 
-## Featured Projects
+## PERFORMANCE METRICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bkbnc-atharvjadhav&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkbnc-atharvjadhav&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## CONTRIBUTION STREAK
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bkbnc-atharvjadhav&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## ACTIVITY MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bkbnc-atharvjadhav&theme=github-dark&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+## FEATURED PROJECTS
 
 | Project | Description |
 |---------|-------------|
-| Campus Connect | Campus navigation and event information platform |
-| LeadCircle | Community and student engagement initiative |
-| Digital Initiatives | Educational and institutional digital solutions |
+| Campus Connect | Smart campus navigation and event ecosystem |
+| LeadCircle | Student collaboration and engagement platform |
+| Digital Initiatives | Building solutions for educational institutions |
 | Open Source | Experiments, tools and contributions |
 
 ---
 
-## GitHub Analytics
+## ACHIEVEMENTS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bkbnc-atharvjadhav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkbnc-atharvjadhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bkbnc-atharvjadhav&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-## Contribution Streak
+## MANIFEST
 
-<div align="center">
+```text
+The source of projects,
+systems,
+ideas,
+and experiments.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bkbnc-atharvjadhav&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bkbnc-atharvjadhav&theme=tokyo-night&hide_border=true&radius=12"/>
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bkbnc-atharvjadhav&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/bkbnc-atharvjadhav">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
+Built with curiosity.
+Powered by caffeine.
+Maintained by chaos.
+```
 
 ---
 
 <div align="center">
 
-### Build • Learn • Share • Repeat
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:1e293b"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
